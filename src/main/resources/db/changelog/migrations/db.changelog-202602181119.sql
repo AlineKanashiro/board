@@ -1,5 +1,5 @@
 --liquibase formatted sql
---changeset aline:202602172215
+--changeset aline:202602181119
 --comment: boards_columns table create
 
 CREATE TABLE BOARDS_COLUMNS(
